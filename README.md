@@ -9,7 +9,7 @@
 -----
 
 *Developer* <br/>
-`Yash Dushettiwar` `Agnijeet Choudhary` `Vinay Panchal` <br/> <br/>
+[`Yash Dushettiwar`](https://in.linkedin.com/in/yash-dushettiwar) `Agnijeet Choudhary` `Vinay Panchal` <br/> <br/>
 *Artist* <br/>
 `Gaurav` `Sinni` <br/><br/>
 *Designer* <br/>
