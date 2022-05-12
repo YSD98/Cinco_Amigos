@@ -7,7 +7,7 @@
 |03|Game Level Design|[Level 1](https://ysd98.github.io/Cinco_Amigos/Assignment03/index.html)|
 --------
 *Developer* <br/>
-`Yash Dushettiwar` `Agnijeet Choudhary` `Vinay Panchal`
+`Yash Dushettiwar` `Agnijeet Choudhary` `Vinay Panchal` <br/> <br/>
 *Artist* <br/> `Gaurav` `Sinni` <br/> <br/>
 *Designer* <br/> `Akshay`
 
