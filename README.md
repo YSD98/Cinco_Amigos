@@ -7,10 +7,7 @@
 |03|Game Level Design|[Level 1](https://ysd98.github.io/Cinco_Amigos/Assignment03/index.html)|
 --------
 *Developer* <br/>
-[![Game Dev](https://img.shields.io/badge/Yash_Dushettiwar-red)](https://in.linkedin.com/in/yash-dushettiwar)
-[![Game Dev](https://img.shields.io/badge/Agnijeet_Choudhary-yellowgreen)]()
-[![Game Dev](https://img.shields.io/badge/Vinay_Panchal-blue)]()
-
+`Yash Dushettiwar` `Agnijeet Choudhary` `Vinay Panchal`
 *Artist* <br/> `Gaurav` `Sinni` <br/> <br/>
 *Designer* <br/> `Akshay`
 
