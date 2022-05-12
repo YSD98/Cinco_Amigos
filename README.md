@@ -17,5 +17,3 @@
 `Gaurav` `Sinni` <br/><br/>
 *Designer* <br/>
 `Akshay`
-
-?style=plastic&logo=appveyor
